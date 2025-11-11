@@ -7,11 +7,6 @@
 - Cuenta de correo para alta.
 
 ## Pasos
-1. **Crear base de datos de prueba (15 días)** desde odoo.com (activar por email).
-   - ![Crear BD](../assets/img/03-instalacion/paso01_crear-bd.png "Crear base de datos")
-2. **Seleccionar apps iniciales** (máximo 10 en la prueba): CRM, Ventas, Facturación, Contabilidad, Proyectos, Documentos, Calendario, etc.
-   - ![Seleccionar apps](../assets/img/03-instalacion/paso02_seleccionar-apps.png "Seleccionar apps")
-3. **Instalar/Desinstalar apps** desde *Aplicaciones* (¡cuidado con los datos al desinstalar!).
-
-## Resultado esperado
-- Acceso al panel principal con las apps instaladas.
+- Primero vas a iniciar sesion con una cuenta nueva y vas a elegir la opción de una prueba gratuita de 15 dias
+- Una vez instalado puedes elegir las aplicaciones necesarias, en mi caso voy a elegir estas
+   - ![Crear BD](../assets/img/03-instalacion/aplicaciones.png "Crear base de datos")
